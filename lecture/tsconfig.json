@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"noImplicitThis": true,
+		"noImplicitReturns": true,
+		"strict": true,
+		"allowJs": true,
+		"lib": ["DOM", "ES5", "ES2015", "ES2020"],
+		"target": "ES6"
+	}
+}
