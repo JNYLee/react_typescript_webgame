@@ -6,8 +6,6 @@
 		"strict": true,
 		"allowJs": true,
 		"lib": ["DOM", "ES5", "ES2015", "ES2020"],
-		"target": "ES6",
-	},
-	"exclude": ["*.js"],
-	"include": ["lecture.ts"]
+		"target": "ES6"
+	}
 }
